@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pakmobile</string>
+    <string name="facebook_app_id">2058772234431942</string>
+    <string name="fb_login_protocol_scheme">fb2058772234431942</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409090686088",
+    "firebase_url": "https://pakmobile-f765f.firebaseio.com",
+    "project_id": "pakmobile-f765f",
+    "storage_bucket": "pakmobile-f765f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409090686088:android:ab14f8bf16f4184a",
+        "android_client_info": {
+          "package_name": "com.pakmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409090686088-ne6oosfo48g65s5fom1ng2u28ivnhjbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCA3tQtO2ud6tW-QDVHEVcmEIUsOOBsf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409090686088-ne6oosfo48g65s5fom1ng2u28ivnhjbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "409090686088-ph8ed6943t8l9e34o0p8hvm9u7e7fuqh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.pakmobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
